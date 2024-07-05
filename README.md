@@ -11,6 +11,8 @@
     <li>Styled with Tailwind CSS for a modern look and feel</li>
   </ul>
 
+  <img src="./src/assets/preview1.png" alt="desktop preview" />
+  
   <h2>Technologies Used</h2>
   <ul>
     <li>React</li>
